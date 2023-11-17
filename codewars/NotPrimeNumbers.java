@@ -37,6 +37,20 @@ public class NotPrimeNumbers {
         }
         return true;
         }
+    /** this is not se efficient:
+     * public static boolean isPrime(int number) {
+     *         if(number <= 1) {
+     *             return false;
+     *         } else {
+     *             for (int j = 2; j < number; j++) {
+     *                 if ((number % j) == 0) {
+     *                     return false;
+     *                 }
+     *             }
+     *             return true;
+     *         }
+     */
+
 
     public static void main(String[] args) {
         int a = 22;
