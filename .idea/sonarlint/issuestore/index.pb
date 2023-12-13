@@ -31,3 +31,9 @@ V
 &codewars/ValidateCreditCardNumber.java,e\f\ef4bc14edb138c56058ae07630f13db963e1b8bb
 L
 codewars/AreWeAlternate.java,0\9\0907aae75c4a6a44bae53a57037757ac776e990d
+J
+codewars/FindTheOddIn.java,d\9\d9537b0e8cde56a8099838fae2b77341f5b81d78
+W
+'codewars/AlphabetWarsNuclearStrike.java,c\6\c6585ab7da4604e37997069385ccc12f2b38ecdb
+Q
+!codewars/SimpleFrequencySort.java,5\5\558318b5c1106f473816fee745d425c3b5b4fa5a
